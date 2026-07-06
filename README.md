@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/mina-headshot.jpg" width="180" alt="Mina Maged Zekry Gayid" style="border-radius:50%" />
+<img src="assets/mina-headshot-suit.jpg" width="180" alt="Mina Maged Zekry Gayid" style="border-radius:50%" />
 
 # Mina Maged Zekry Gayid
 
