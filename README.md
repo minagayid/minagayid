@@ -17,9 +17,9 @@ Aswan, Egypt
 
 ## 👋 About Me
 
-I'm a practicing **dentist and dental clinic owner** based in Aswan, Egypt, graduated with the **highest honors** from MSA University's Faculty of Dentistry. Alongside clinical practice, I'm expanding into **healthcare management and business**, currently pursuing an **MBA** at the Arab Academy for Science, Technology & Maritime Transport.
+I'm a practicing **dentist and dental clinic owner** based in Aswan, Egypt, graduated with the **highest honors** from MSA University's Faculty of Dentistry. Alongside clinical practice, I'm expan[...]
 
-I care about combining quality patient care with sound operations — running a clinic taught me as much about people, systems, and decision‑making as dentistry did. I'm increasingly interested in how **data and technology** can improve healthcare delivery, and I'm building skills in data analysis and programming to bridge that gap.
+I care about combining quality patient care with sound operations — running a clinic taught me as much about people, systems, and decision‑making as dentistry did. I'm increasingly interested [...]
 
 ## 💼 Professional Experience
 
@@ -66,6 +66,7 @@ Communication & teamwork · Organization & time management · Problem‑solving 
 
 ## 📫 Get in Touch
 
+- 🌐 **Portfolio:** [minagayid.github.io](https://minagayid.github.io)
 - 📧 **Email:** [minagayid@gmail.com](mailto:minagayid@gmail.com)
 - 💼 **LinkedIn:** [mina-maged-zekry-gayid](https://www.linkedin.com/in/mina-maged-zekry-gayid-6b5b3a137)
 - 🐙 **GitHub:** [@minagayid](https://github.com/minagayid)
