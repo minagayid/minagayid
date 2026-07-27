@@ -17,9 +17,9 @@ Aswan, Egypt
 
 ## 👋 About Me
 
-I'm a practicing **dentist and dental clinic owner** based in Aswan, Egypt, graduated with the **highest honors** from MSA University's Faculty of Dentistry. Alongside clinical practice, I'm expan[...]
+I'm a practicing **dentist and dental clinic owner** based in Aswan, Egypt, graduated with the **highest honors** from MSA University's Faculty of Dentistry. Alongside clinical practice, I'm expanding my knowledge through MBA study.
 
-I care about combining quality patient care with sound operations — running a clinic taught me as much about people, systems, and decision‑making as dentistry did. I'm increasingly interested [...]
+I care about combining quality patient care with sound operations — running a clinic taught me as much about people, systems, and decision‑making as dentistry did. I'm increasingly interested in Machine Learning and AI proficiency.
 
 ## 💼 Professional Experience
 
