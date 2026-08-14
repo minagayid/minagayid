@@ -4,71 +4,80 @@
 
 # Mina Maged Zekry Gayid
 
-**Dentist · Dental Clinic Owner · MBA Candidate**
+**Applied AI Intern · Dentist · Healthcare MBA Candidate**<br>
 Aswan, Egypt
 
-[![Email](https://img.shields.io/badge/Email-minagayid%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:minagayid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-maged-zekry-gayid-6b5b3a137)
-[![GitHub](https://img.shields.io/badge/GitHub-minagayid-181717?style=flat&logo=github&logoColor=white)](https://github.com/minagayid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-minagayid.github.io-0a7476?style=flat&logo=googlechrome&logoColor=white)](https://minagayid.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-maged-zekry-gayid/)
+[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=flat&logo=gmail&logoColor=white)](mailto:minagayid@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I'm a practicing **dentist and dental clinic owner** based in Aswan, Egypt, graduated with the **highest honors** from MSA University's Faculty of Dentistry. Alongside clinical practice, I'm expanding my knowledge through MBA study.
+I am an **Applied AI Intern at FlyRank AI**, a dentist, owner of Happy Dental Clinic, and MBA candidate in Hospital and Healthcare Facilities Administration. My work sits at the intersection of **healthcare, business operations, data, and practical AI**.
 
-I care about combining quality patient care with sound operations — running a clinic taught me as much about people, systems, and decision‑making as dentistry did. I'm increasingly interested in Machine Learning and AI proficiency.
+I enjoy turning ambiguous problems into clear, reviewable workflows. My current focus includes Claude and Claude API fundamentals, prompt engineering, AI workflow design, structured research and file workflows, output evaluation, and responsible AI use with human review in the loop.
 
-## 💼 Professional Experience
+## 🧭 Current focus
 
-- **Happy Dental Clinic** — *Owner & Operator* (2023 – present)
-  Founded and run a private dental practice: clinical care, staff, scheduling, and day‑to‑day operations.
-- **Egypt Healthcare Authority** — *Dentist, Elgozayra Family Medicine Unit* (2022 – 2024)
-  Delivered primary dental care within Egypt's public family‑medicine system.
+- Building practical AI fluency through FlyRank AI and Anthropic Academy coursework
+- Exploring AI-assisted workflows for research, content, organic growth, and repeatable business processes
+- Connecting clinical and healthcare-operations context with data-informed problem solving
+- Open to internships and projects in applied AI, AI operations, healthcare technology, and data-focused work
+
+## 💼 Experience
+
+- **FlyRank AI** — *Applied AI Intern* (Jun 2026 – present)<br>
+  Apply Claude and prompt-engineering techniques to structured research, file-based tasks, and practical business workflows. Evaluate outputs for relevance, limitations, and responsible use.
+- **Happy Dental Clinic** — *Owner & Dentist* (Aug 2023 – present)<br>
+  Own and operate a patient-centered dental clinic while managing clinical care, scheduling, patient communication, supplies, records, and service delivery.
+- **Egypt Healthcare Authority** — *Dentist, El Gozayra Family Medicine Unit* (Aug 2022 – Aug 2024)<br>
+  Delivered patient-centered dental care in a public primary-care setting and coordinated with multidisciplinary healthcare teams.
+
+## 🧪 Selected AI work
+
+### Applied AI and Claude Workflow Portfolio
+
+Hands-on work completed through the FlyRank AI internship and Anthropic Academy, focused on:
+
+- Claude and Claude API fundamentals
+- Prompt engineering and reusable prompt-driven workflows
+- Research and file-based workflows
+- Output evaluation, model capabilities, and limitations
+- Responsible AI review and human-in-the-loop decision points
+
+**Outcome:** completed seven Anthropic Academy credentials, including *Building with the Claude API*, *AI Fluency for Builders*, *Claude 101*, *AI Capabilities and Limitations*, and *Introduction to Claude Cowork*.
 
 ## 🎓 Education
 
-- **Arab Academy for Science, Technology & Maritime Transport** — *Master of Business Administration (MBA)* (2025 – present)
-- **MSA University** — *Bachelor of Dentistry* (2015 – 2020)
-  GPA **3.72** · Graduated with **Highest Honors**
-
-## 📜 Certifications
-
-- Basic Implant Course — Cairo Dental Syndicate (2021)
-- Basic Life Support (BLS) — Egypt Healthcare Authority (2023)
-- ICDL (International Computer Driving Licence) — Cairo University (2021)
-- Mini MBA — Udemy (2020)
+- **Arab Academy for Science, Technology & Maritime Transport** — *MBA, Hospital and Healthcare Facilities Administration/Management* (Apr 2025 – Mar 2027 expected)
+- **Modern Sciences and Arts University** — *Bachelor of Dentistry (BDS)* (2015 – 2020)<br>
+  GPA **3.72** · **Highest Honors**
 
 ## 🧠 Skills
 
-**Clinical & Professional**
-Dentistry · Dental implants · Patient care · Clinic management & operations
+**Applied AI**<br>
+Claude · Claude API fundamentals · Prompt engineering · Generative AI · AI workflow design · Output evaluation · Responsible AI · Foundational ML concepts
 
-**Business & Analytics**
-Business administration · Data analysis (Power BI, SQL, Tableau) · Microsoft Office (Word, Excel, PowerPoint, Teams)
+**Programming & data**<br>
+Python · SQL · Power BI · Tableau · Excel · HTML · CSS · JavaScript
 
-**Technical (foundational)**
-HTML · CSS · JavaScript · Python · Cloud basics (AWS, Azure)
+**Healthcare & business**<br>
+Clinical dentistry · Healthcare management · Hospital administration · Clinic operations · Project management · Research
 
-**Languages**
+**Productivity & cloud foundations**<br>
+Microsoft Word · PowerPoint · Teams · AWS · Azure
+
+**Languages**<br>
 Arabic (native) · English (C1)
 
-**Strengths**
-Communication & teamwork · Organization & time management · Problem‑solving & analytical thinking
-
-## 🌱 Currently
-
-- Studying toward my MBA while growing Happy Dental Clinic
-- Building practical skills in data analysis and programming
-- Open to collaboration at the intersection of **healthcare, business, and technology**
-
-## 📫 Get in Touch
+## 📫 Connect
 
 - 🌐 **Portfolio:** [minagayid.github.io](https://minagayid.github.io)
+- 💼 **LinkedIn:** [mina-maged-zekry-gayid](https://www.linkedin.com/in/mina-maged-zekry-gayid/)
 - 📧 **Email:** [minagayid@gmail.com](mailto:minagayid@gmail.com)
-- 💼 **LinkedIn:** [mina-maged-zekry-gayid](https://www.linkedin.com/in/mina-maged-zekry-gayid-6b5b3a137)
-- 🐙 **GitHub:** [@minagayid](https://github.com/minagayid)
 
-<div align="center"><sub>Thanks for stopping by 👋</sub></div>
+<div align="center"><sub>Healthcare context, practical AI, and thoughtful execution.</sub></div>
