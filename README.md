@@ -5,11 +5,10 @@
 # Mina Maged Zekry Gayid
 
 **Applied AI Intern · Dentist · Healthcare MBA Candidate**<br>
-Aswan, Egypt
+Egypt · Open to remote opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minagayid.github.io-0a7476?style=flat&logo=googlechrome&logoColor=white)](https://minagayid.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-maged-zekry-gayid/)
-[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=flat&logo=gmail&logoColor=white)](mailto:minagayid@gmail.com)
 
 </div>
 
@@ -26,7 +25,7 @@ I enjoy turning ambiguous problems into clear, reviewable workflows. My current 
 - Building practical AI fluency through FlyRank AI and Anthropic Academy coursework
 - Exploring AI-assisted workflows for research, content, organic growth, and repeatable business processes
 - Connecting clinical and healthcare-operations context with data-informed problem solving
-- Open to internships and projects in applied AI, AI operations, healthcare technology, and data-focused work
+- Open to remote internships and projects in applied AI, agent evaluation, healthcare technology, and data-focused work
 
 ## 💼 Experience
 
@@ -37,19 +36,22 @@ I enjoy turning ambiguous problems into clear, reviewable workflows. My current 
 - **Egypt Healthcare Authority** — *Dentist, El Gozayra Family Medicine Unit* (Aug 2022 – Aug 2024)<br>
   Delivered patient-centered dental care in a public primary-care setting and coordinated with multidisciplinary healthcare teams.
 
-## 🧪 Selected AI work
+## Selected engineering work
 
-### Applied AI and Claude Workflow Portfolio
+**Reliable Agentic AI for High-Stakes Systems** — inspectable workflows, source provenance, failure analysis and evidence-bound review.
 
-Hands-on work completed through the FlyRank AI internship and Anthropic Academy, focused on:
+| Project | Working evidence | Scope |
+|---|---|---|
+| [Agent Eval Lab](https://github.com/minagayid/agent-eval-lab) | FastAPI/React, trace metrics, JSON/HTML and regression checks | 100 synthetic fixture variants; scripted controls, not LLM results |
+| [Personizer](https://github.com/minagayid/personizer) | Skill registry, states, allowlists, bounded execution, exact approval seam | Synthetic local protocol workflows |
+| [NovaDB](https://github.com/minagayid/novadb-engine) | Provenance metadata, scope protection, TTL and durable reopen checks | Local storage contract; comparative database claims pending |
+| [Radiograph Ready](https://github.com/minagayid/AIih_2026) | Weak-label quality baseline and patient/image split validator | Research only; expert/patient/external validation pending |
+| [Genopedia](https://github.com/minagayid/genopedia) / [Neurapedia](https://github.com/minagayid/neurapedia) | Source hashes and retrieval metrics / overlap and calibration metrics | Offline research contracts; independent labels pending |
+| [Robotics simulator](https://github.com/minagayid/robotic-surgery) | Eight deterministic safety control/fault scenarios | Simulation only; no device or clinical claim |
 
-- Claude and Claude API fundamentals
-- Prompt engineering and reusable prompt-driven workflows
-- Research and file-based workflows
-- Output evaluation, model capabilities, and limitations
-- Responsible AI review and human-in-the-loop decision points
+[Benchmarks](https://minagayid.github.io/benchmarks/) · [Research and evidence gates](https://minagayid.github.io/research/) · [Engineering note](https://minagayid.github.io/research/evaluation-note/)
 
-**Outcome:** completed seven Anthropic Academy credentials, including *Building with the Claude API*, *AI Fluency for Builders*, *Claude 101*, *AI Capabilities and Limitations*, and *Introduction to Claude Cowork*.
+**ELLM:** [the LoRA experiment](https://huggingface.co/minagayid/ELLM) on a pinned SmolLM2-135M-Instruct base failed its safety promotion gate. Held-out exact match was 79/256; the adapter released 177/192 non-release cases. The rejected result remains visible; it is not an operational approval model.
 
 ## 🎓 Education
 
@@ -78,6 +80,5 @@ Arabic (native) · English (C1)
 
 - 🌐 **Portfolio:** [minagayid.github.io](https://minagayid.github.io)
 - 💼 **LinkedIn:** [mina-maged-zekry-gayid](https://www.linkedin.com/in/mina-maged-zekry-gayid/)
-- 📧 **Email:** [minagayid@gmail.com](mailto:minagayid@gmail.com)
 
 <div align="center"><sub>Healthcare context, practical AI, and thoughtful execution.</sub></div>
