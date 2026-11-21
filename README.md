@@ -31,7 +31,7 @@ I enjoy turning ambiguous problems into clear, reviewable workflows. My current 
 
 ## 💼 Experience
 
-- **FlyRank AI** — *Applied AI Intern* (Jun 2026 – present)<br>
+- **FlyRank AI** — *Applied AI Intern* (Jun 2026 – Sep 2026)<br>
   Apply Claude and prompt-engineering techniques to structured research, file-based tasks, and practical business workflows. Evaluate outputs for relevance, limitations, and responsible use.
 - **Happy Dental Clinic** — *Owner & Dentist* (Aug 2023 – present)<br>
   Own and operate a patient-centered dental clinic while managing clinical care, scheduling, patient communication, supplies, records, and service delivery.
