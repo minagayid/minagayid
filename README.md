@@ -9,6 +9,8 @@ Egypt · Open to remote opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minagayid.github.io-0a7476?style=flat&logo=googlechrome&logoColor=white)](https://minagayid.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-maged-zekry-gayid/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-minagayid-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/minagayid)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-minagayid-ff9d00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/minagayid)
 
 </div>
 
