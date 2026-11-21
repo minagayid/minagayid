@@ -4,7 +4,7 @@
 
 # Mina Maged Zekry Gayid
 
-**Applied AI Intern · Dentist · Healthcare MBA Candidate**<br>
+**Former Applied AI Intern · Dentist · Healthcare MBA Candidate**<br>
 Egypt · Open to remote opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minagayid.github.io-0a7476?style=flat&logo=googlechrome&logoColor=white)](https://minagayid.github.io)
@@ -18,7 +18,7 @@ Egypt · Open to remote opportunities
 
 ## 👋 About
 
-I am an **Applied AI Intern at FlyRank AI**, a dentist, owner of Happy Dental Clinic, and MBA candidate in Hospital and Healthcare Facilities Administration. My work sits at the intersection of **healthcare, business operations, data, and practical AI**.
+I previously worked as an **Applied AI Intern at FlyRank AI**; I am also a dentist, owner of Happy Dental Clinic, and MBA candidate in Hospital and Healthcare Facilities Administration. My work sits at the intersection of **healthcare, business operations, data, and practical AI**.
 
 I enjoy turning ambiguous problems into clear, reviewable workflows. My current focus includes Claude and Claude API fundamentals, prompt engineering, AI workflow design, structured research and file workflows, output evaluation, and responsible AI use with human review in the loop.
 
